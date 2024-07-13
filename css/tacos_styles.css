@@ -2,3 +2,21 @@
 	margin: 0;
 	padding: 0;
 }
+
+body{
+	background: green;
+}
+
+h1{
+	text-align: center;
+	position: relative;
+}
+
+#tacos_pastor{
+	 width: 495px; 
+	 height: 370px;
+	 position: absolute;
+	 left: 420px;
+	 top: 60px;
+
+}

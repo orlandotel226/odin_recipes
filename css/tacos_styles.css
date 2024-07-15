@@ -27,15 +27,35 @@ h1{
 	position: absolute;
 }
 
-h3{
+.ingredients{
 	top: 520px;
 	left: 20px;
+	font-size: 22px;
+	position: relative;
+}
+
+.directions{
+	top: 580px;
+	left: 30px;
+	font-size: 22px;
 	position: relative;
 }
 
 ul{
 	top: 540px;
 	left: 40px;
+	font-size: 20px;
 	position: relative;
 }
 
+ol{
+	top: 600px;
+	left: 40px;
+	font-size: 20px;
+	position: relative;
+}
+
+.garnish{
+	font-size: 22px;
+	position: relative;
+}

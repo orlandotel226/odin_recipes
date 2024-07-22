@@ -28,14 +28,35 @@ p {
 	position: absolute;
 }
 
-h3 {
+#hamburger_ingredients {
 	font-size: 30px;
-	top: 400px;
+	top: 500px;
+	left: 20px;
 	position: relative;
 }
 
 ul{
-	top: 450px;
-	font-size: 15px;
+	top: 600px;
+	left: 30px;
+	font-size: 22px;
 	position: absolute;
+}
+
+ol{
+	top: 800px;
+	left: 30px;
+	font-size: 22px;
+	position: absolute;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 800
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 20px;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
 }

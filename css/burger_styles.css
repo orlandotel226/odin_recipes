@@ -5,6 +5,7 @@
 
 body{
 	background: #FFAA00;
+	font-family: "Open Sans", sans-serif;
 }
 
 h1{
@@ -47,16 +48,4 @@ ol{
 	left: 30px;
 	font-size: 22px;
 	position: absolute;
-}
-
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 300 to 800
-
-.open-sans-<uniquifier> {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 20px;
-  font-style: normal;
-  font-variation-settings:
-    "width" 100;
 }

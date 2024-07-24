@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: pink;
+}
+
+h1{
+	text-align: center;
+}
+
+#pizza{
+	width: 200px;
+	height: 340px;
+	left: 100px;
+	position: relative;
+}
+
+#description_pizza{
+	top: 90px;
+	font-size: 30px;
+	position: relative;
+}
+
+#ingredients_pizza{
+	top: 130px;
+	left: 30px;
+	font-size: 30px;
+	position: relative;
+}
+
+ul{
+	left: 80px;
+	top: 165px;
+	font-size: 20px;
+	position: relative;
+}
+
+#pizza_directions{
+	top: 250px;
+	left: 30px;
+	font-size: 30px;
+	position: relative;
+}
+
+ol{
+	left: 80px;
+	top: 300px;
+	font-size: 20px;
+	position: relative;
+}

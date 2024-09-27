@@ -10,6 +10,10 @@ body{
 h1{
 	text-align: center;
 	font-size: 60px;
+	margin: 30px;
+	padding: 24px;
+	color: #FF0000;
+	position: relative;
 }
 
 #pizza{
@@ -17,6 +21,8 @@ h1{
 	height: 340px;
 	left: 100px;
 	position: relative;
+	margin: 120px;
+	padding: 23px;
 }
 
 #description_pizza{
@@ -29,26 +35,40 @@ h1{
 	top: 130px;
 	left: 30px;
 	font-size: 40px;
+	margin: 40px;
+	padding: 30px;
 	position: relative;
+	color: darkgreen;
+	background: lightblue;
 }
 
 ul{
-	left: 80px;
-	top: 165px;
+	left: 40px;
+	top: 90px;
 	font-size: 25px;
 	position: relative;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	padding: 30px;
+	background: lightblue;
+	color: #4413DD;
 }
 
 #pizza_directions{
 	top: 250px;
-	left: 30px;
-	font-size: 40px;
+	text-align: center;
+	font-size: 70px;
+	color: darkgreen;
 	position: relative;
 }
 
 ol{
 	left: 80px;
 	top: 300px;
+	margin: 40px;
+	padding: 30px;
 	font-size: 25px;
 	position: relative;
+	color: #4413DD;
+	background: darkorange;
 }

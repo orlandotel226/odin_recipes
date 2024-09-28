@@ -13,14 +13,17 @@ h1{
 	top: 40px;
 	position: relative;
 	color: #00A000;
+	background-color: red;
 }
 
 #hamburger{
 	width: 530px;
 	height: 275px;
 	left: 390px;
-	top: 120px;
+	top: 140px;
 	position: absolute;
+	margin-bottom: 190px;
+	padding-bottom: 60px;
 }
 
 p {
@@ -30,13 +33,13 @@ p {
 }
 
 #hamburger_ingredients {
-	font-size: 30px;
-	top: 500px;
-	left: 20px;
+	font-size: 40px;
+	color: deeppink;
 	position: relative;
 }
 
 ul{
+	background: lightgreen;
 	top: 600px;
 	left: 30px;
 	font-size: 22px;
@@ -44,15 +47,19 @@ ul{
 }
 
 ol{
+	background: pink;
 	top: 1250px;
 	left: 30px;
+	margin: 40px;
+	padding: 30px;
 	font-size: 22px;
 	position: absolute;
 }
 
 #preparations_hamburger{
 	top: 1100px;
-	font-size: 30px;
-	left: 20px;
+	font-size: 70px;
+	color: #33AA99;
+	text-align: center;
 	position: relative;
 }

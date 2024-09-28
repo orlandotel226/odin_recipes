@@ -12,6 +12,7 @@ h1{
 	text-align: center;
 	position: relative;
 	color: #FF00FF;
+	background: brown;
 }
 
 #tacos_pastor{
@@ -31,11 +32,14 @@ h1{
 }
 
 .ingredients{
-	top: 520px;
-	left: 20px;
-	font-size: 22px;
+	top: 620px;
+	text-align: center;
+	font-size: 52px;
 	position: relative;
 	color: #FF00FF;
+	margin-left: 120px;
+	margin-top: 50px;
+	padding: 80px;
 }
 
 .directions{
@@ -52,6 +56,8 @@ ul{
 	font-size: 20px;
 	position: relative;
 	color: cyan;
+	background: darkblue;
+	margin: 70px;
 }
 
 ol{
